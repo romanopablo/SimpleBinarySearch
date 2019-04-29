@@ -1,0 +1,19 @@
+{
+  "name": "binarysearchexample",
+  "version": "1.0.0",
+  "description": "Just an binary search example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanopablo/SimpleBinarySearch.git"
+  },
+  "author": "Promano (pabloromano90@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romanopablo/SimpleBinarySearch/issues"
+  },
+  "homepage": "https://github.com/romanopablo/SimpleBinarySearch#readme"
+}
